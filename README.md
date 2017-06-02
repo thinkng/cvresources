@@ -1,5 +1,9 @@
 # cvresources
-A collection of my materials into Computer Vision
+A collection of my materials into Computer Vision. 
+
+**Limitation**: 
+
+I list only the materials I have used so far. There's a lot more useful stuff out there. Make a survey!
 
 ### Table of Contents
 1. [Books]
@@ -30,3 +34,16 @@ A collection of my materials into Computer Vision
 
   *I had a project dealing with Deep Convolutional Network for object classification so I read some chapters of this book for an understanding. Recommend these chapters: Part I(1,2,3,4,5); Part II (Chapter 6,7,8,9); Part III (14). The book is free!*
 
+* Pattern Classification - Duda & Hart * Stork (http://as.wiley.com/WileyCDA/WileyTitle/productCd-0471056693.html)
+  *I finished only the first chapter. It's painful to understand T.T*
+
+## 2.Courses
+
+* Undergraduate level: Linear Algebra, Programming (C/C++/C#), Computer Architecture, Algorithms & Data Structure, Digital Signal Processing, Computer Interfacing, Probability & Statistics, Physics.  
+
+  *The courses above are taught at Hanoi University of Science and Technology (2007-2012) and are available in English.*  
+  
+* Others: 
+    - Numerical Methods 
+    - Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 (https://youtu.be/UhDlL-tLT2U?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+    - CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
