@@ -27,5 +27,6 @@ A collection of my materials into Computer Vision
   *This is the most useful collection of hand-on tutorials about fundamental CV algorithms. OpenCV and C are deployed for examples.*
   
 * Deep learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville - 2016. (http://www.deeplearningbook.org/)
+
   *I had a project dealing with Deep Convolutional Network for object classification so I read some chapters of this book for an understanding. Recommend these chapters: Part I(1,2,3,4,5); Part II (Chapter 6,7,8,9); Part III (14). The book is free!*
 
