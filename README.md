@@ -3,7 +3,7 @@ A collection of my materials into Computer Vision.
 
 **Limitation**: 
 
-I list only the materials I have used so far. There's a lot more useful stuff out there. Make a survey!
+*I list only the materials I have used so far. There's a lot more useful stuff out there. Please suggest your favorite resources!* 
 
 ### Table of Contents
 1. [Books]
@@ -40,10 +40,25 @@ I list only the materials I have used so far. There's a lot more useful stuff ou
 ## 2.Courses
 
 * Undergraduate level: Linear Algebra, Programming (C/C++/C#), Computer Architecture, Algorithms & Data Structure, Digital Signal Processing, Computer Interfacing, Probability & Statistics, Physics.  
-
-  *The courses above are taught at Hanoi University of Science and Technology (2007-2012) and are available in English.*  
   
 * Others: 
     - Numerical Methods 
     - Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 (https://youtu.be/UhDlL-tLT2U?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
     - CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
+
+## 3.Software and libraries
+* CVIPTools: Quick tool to test image processing algorithms. It's free to use without source code. Download here: http://cviptools.ece.siue.edu/
+* C++ Bitmap Library: http://www.partow.net/programming/bitmap/index.html
+* ImageJ
+* Vias (Focus stacking)
+* Matlab
+* Sapera Essential
+* Halcon
+* Tesseract: https://github.com/tesseract-ocr/tesseract
+* OpenCV/EmguCV
+* Caffe/Theano/Tensorflow
+* Intel IPP
+* Cuda Toolbox
+
+
+
