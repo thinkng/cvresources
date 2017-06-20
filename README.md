@@ -1,5 +1,6 @@
 # cvresources
 A collection of my materials into Computer Vision. 
+Computer Vision here means hardware (camera, lens, lighting, computing technologies) and software (image processing)
 
 **Limitation**: 
 
@@ -39,7 +40,7 @@ A collection of my materials into Computer Vision.
 
 ## 2.Courses
 
-* Undergraduate level: Linear Algebra, Programming (C/C++/C#), Computer Architecture, Algorithms & Data Structure, Digital Signal Processing, Computer Interfacing, Probability & Statistics, Physics.  
+* Undergraduate level: Linear Algebra, Programming (C/C++/C#), Computer Architecture, Algorithms & Data Structure, Probability & Statistics, Physics.  
   
 * Others: 
     - Numerical Methods 
@@ -50,7 +51,7 @@ A collection of my materials into Computer Vision.
 * CVIPTools: Quick tool to test image processing algorithms. It's free to use without source code. Download here: http://cviptools.ece.siue.edu/
 * C++ Bitmap Library: http://www.partow.net/programming/bitmap/index.html
 * ImageJ
-* Vias (Focus stacking)
+* Helicon (Focus stacking)
 * Matlab
 * Sapera Essential
 * Halcon
