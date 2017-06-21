@@ -13,7 +13,7 @@ Computer Vision here means hardware (camera, lens, lighting, computing technolog
 4. [Hardware]
 5. [Public datasets]
 6. [Tutorials & Useful codes]
-7. [News]
+7. [Topics in Computer Vision]
 
 
 ## 1. Books
@@ -61,5 +61,11 @@ Computer Vision here means hardware (camera, lens, lighting, computing technolog
 * Intel IPP
 * Cuda Toolbox
 
-
+## 7. Topics in Computer Vision
+* Shape from focus
+    - Shape from focus system. Nayar 1992. http://graphics.stanford.edu/courses/cs348b-06/homework3/Nayar_CVPR92.pdf
+    - Analysis of focus measure operators for shape-from-focus. Pertuz 2013. https://goo.gl/dUwyeH
+    - Software: Helicon
+    - Demo code: https://www.mathworks.com/matlabcentral/fileexchange/55103-shape-from-focus
+    
 
